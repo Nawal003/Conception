@@ -48,7 +48,7 @@ Ecrivez les requêtes SQL qui répondent aux demandes ci-dessous, cette fois vou
 
     3. Lister les noms des boissons qui n'ont jamais été commandées
 
-    4. Afficher le nom des boisson qui ont été commandées au moins 10 fois
+    4. Afficher le nom des boissons qui ont été commandées au moins 10 fois
 
 ## Etape 4 : jointures
 
