@@ -5,7 +5,7 @@ select * FROM commandes where idTable = 10 order by DateCommande;
 select * FROM commandes where (idTable=6 OR idTable=10) and idService=1;
 select * FROM commandes where idTable in (10,6) and idService=1;
 
---3. Afficher le nb de commandes passé à la table n°10 (COUNT et AS)
+--3. Afficher le nb de commandes passées à la table n°10 (COUNT et AS)
 select count(*) as 'Nb Commandes' FROM commandes where idTable = 10;
 
 --4. Afficher le nb de commande passé à la table n°10, pour chacun des services midi et soir (GROUP BY)
