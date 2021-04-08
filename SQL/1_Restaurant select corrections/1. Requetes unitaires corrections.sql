@@ -25,7 +25,7 @@ group by idService;
 
 --6. Afficher les commandes à venir, les trier par date anti-chronologique (NOW) 
 select * FROM commandes 
-where DateCommande<NOW() 
+where DateCommande>NOW() 
 order by DateCommande desc;
 
 --7. Afficher les commandes du dernier trimestre 2019 (YEAR, MONTH)
