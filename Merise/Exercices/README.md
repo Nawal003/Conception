@@ -1,6 +1,6 @@
 * S'entraîner
 
-C'est [là](https://1drv.ms/b/s!Ahf5x4hPXrq3h5Jnb5om2JPfrel1eQ?e=Sm8yFz).
+C'est [là](https://1drv.ms/w/s!Ahf5x4hPXrq3hddogRFiUSuTCwAJbw?e=Ok8z42).
 
 Faites les 4 premiers exercices.
 
