@@ -27,7 +27,7 @@ Créez donc deux Trigger « trArticlesBeforeInsert » et « trArticlesBeforeUpda
 
 > Mot clé : CREATE TRIGGER ...
 
-## Exercice 5 :VARABLES ET CURSEUR
+## Exercice 5 :VARIABLES ET CURSEUR
 
 Pour compléter l'article, ajoutez à la procsto « psArticle » les catégories de l'article dans une colonne virtuelle "catégories", en y concaténant les noms des catégories de l'article.
 
