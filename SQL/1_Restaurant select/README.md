@@ -6,7 +6,7 @@ Vous allez travailler sur la base de données d'un restaurant, dont voici le MCD
 
 ![MCD](MCDrestaurant.jpg "MCD de la base restaurant")
 
-Pour commencer, créez une base de données MySql et importer le script suivant : [restaurant.sql](restaurant.sql)
+Pour commencer, créez une base de données MySql et importez le script suivant : [restaurant.sql](restaurant.sql)
 
 Profitez-en pour regarder les requêtes utilisées ...
 
@@ -16,15 +16,15 @@ Vous devez obtenir le schéma physique suivant (ici, grâce au concepteur de Php
 
 ## Etape 2 : premières requêtes unitaires
 
-Ecrivez les requêtes SQL qui répondent aux demandes ci-dessous, toutes les requêtes doivent être unitaire, c'est à dire porter sur une seule table sans jointure ni sous-requête :
+Ecrivez les requêtes SQL qui répondent aux demandes ci-dessous, toutes les requêtes doivent être unitaires, c'est à dire porter sur une seule table sans jointure ni sous-requête :
 
     1. Lister les commandes de la table n°10, les trier par date chronologique (SELECT WHERE ORDER BY)
 
     2. Liste les commandes de la table n°10 ou n°6 pour le service du midi (AND, OR IN)
 
-    3. Afficher le nb de commandes passé à la table n°10 (COUNT et AS)
+    3. Afficher le nb de commandes passées à la table n°10 (COUNT et AS)
 
-    4. Afficher le nb de commande passé à la table n°10, pour chacun des services midi et soir (GROUP BY)
+    4. Afficher le nb de commandes passées à la table n°10, pour chacun des services midi et soir (GROUP BY)
 
     5. Reprendre la requête précédente et remplacer l'id du service par Midi ou Soir (CASE WHEN)
 
