@@ -4,7 +4,7 @@ Vous pouvez télécharger le cours d'introduction [ici](https://1drv.ms/b/s!Ahf5
 
 > Tester les requêtes de la partie 7
 
-* Télécharger JMerise
+* Télécharger JMerise version Etudiante
 
 [JMerise](http://www.jfreesoft.com/JMerise/index.html)
 
